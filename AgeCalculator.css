@@ -1,0 +1,41 @@
+.ageCalculator
+{
+    
+    margin: 10px;
+    
+}
+
+.datebox
+{
+    margin: 10px;
+    height: 50px;
+    width :200px;
+    font-family: cursive;
+    font-size: 20px;   
+    
+}
+
+.button
+{
+    height: 50px;
+    margin :10px;
+    width : 100px;
+    font-size: 18px;
+    font-family: cursive;
+    color: white;
+    border : 0px;
+
+}
+
+.primary
+{
+    background-color: rgb(14, 82, 25);
+  
+}
+
+.secondary
+{
+    background-color: rgb(7, 72, 138);
+}
+
+
